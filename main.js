@@ -13,8 +13,8 @@ let e = 2.7;
 let pud = 16;
 let tr = true;
 let fa = false;
-console.log(h + o + co + u + one + ten + nine +ott + pi + e + pud + tr + fa)
-console.log(h + o + co + u + [one + ten + nine +ott + pi + e + pud] + tr + fa)
+console.log(h,o,co,u,one,ten,nine,ott,pi,e,pud,tr,fa)
+
 
 // task_2
 
@@ -37,6 +37,7 @@ console.log(typeof c);
 
 let first_name = prompt('Enter your first name');
 console.log(first_name);
+
 if (!!first_name){
     alert('Thank you' + ' ' + first_name)
 }
@@ -53,13 +54,10 @@ if (!!!middle_name){
     alert('I also do not think I need it.')
 }
 
-let age = prompt('Enter your age');
+let age = +prompt('Enter your age');
 console.log(age);
 if(!!!age){
     alert('I want to know your age')
-}
-if (age>1<18){
-    alert('You are still young!')
 }
 if (age>18){
     alert('With such age already sell beer')
