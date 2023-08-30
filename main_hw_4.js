@@ -4,8 +4,8 @@
 function areaRectangle(a, b) {
     return a * b;
 }
-let num = areaRectangle(10, 20);
-console.log(num);
+// let num = areaRectangle(10, 20);
+console.log(areaRectangle(10, 20));
 
 // task_2 - створити функцію яка обчислює та повертає площу кола з радіусом r
 
