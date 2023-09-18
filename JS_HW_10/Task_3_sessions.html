@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  <title>Task3_Sessions</title>
+</head>
+<body>
+<div id="sessions"></div>
+<script>
+  let sessions = JSON.parse(localStorage.sessions);
+  let sessionsDiv = document.getElementById("sessions");
+  for (let i = 0; i < sessions.length; i++) {
+    let sessionDiv = document.createElement("div");
+    sessionDiv.innerHTML = sessions[i];
+    sessionsDiv.appendChild(sessionDiv);
+  }
+</script>
+</body>
+</html>

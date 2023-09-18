@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task_2</title>
+</head>
+
+<body>
+<div id="BlockDiv"></div>
+
+<script>
+    window.onload = function() {
+        let numRest = localStorage.getItem("numRest");
+        if (numRest) {
+            numRest = parseInt(numRest) + 1;
+        } else {
+            numRest = 1;
+        }
+        localStorage.setItem("numRest", numRest.toString());
+        document.getElementById("BlockDiv").innerHTML = numRest.toString();
+    };
+</script>
+</body>
+</html>

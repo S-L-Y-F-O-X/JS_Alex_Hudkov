@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task_5</title>
+</head>
+<style>
+    #text2{
+        display: none;
+    }
+</style>
+<body>
+<button id="but">Змінити ракурс</button><br><br>
+<img src="mugbart_1.jpg" alt="Bart" id="text">
+<img src="mugbart_2.jpg" alt="Bart" id="text2">
+
+<script>
+    let fotoBart1 = document.getElementById("text");
+    let fotoBart2 = document.getElementById("text2");
+    let but = document.getElementById("but");
+    but.addEventListener("mousedown", function() {
+        fotoBart1.style.display = "none";
+        fotoBart2.style.display = "block";
+    });
+    but.addEventListener("mouseup", function() {
+        fotoBart1.style.display = "block";
+        fotoBart2.style.display = "none";
+    });
+</script>
+</body>
+</html>

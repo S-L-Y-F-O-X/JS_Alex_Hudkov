@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb765ab9-7f2f-4c63-8c7f-02acc4928a06" name="Changes" comment="saved homework file JS_HW_6.HTML, main_hw_6.JS">
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_3_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_3_sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS_HW_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_9.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main_hw_8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_hw_9.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +69,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Обучение\JS\Proj js\JS_Lex\JS_HW_10" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +88,7 @@
       <workItem from="1692212987642" duration="24215000" />
       <workItem from="1692696951276" duration="27030000" />
       <workItem from="1693301855283" duration="55317000" />
+      <workItem from="1694948617230" duration="17916000" />
     </task>
     <task id="LOCAL-00001" summary="Rename file">
       <option name="closed" value="true" />

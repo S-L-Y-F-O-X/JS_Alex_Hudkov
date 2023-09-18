@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HW_10_Task3_index</title>
+</head>
+<body>
+<script>
+    let date = new Date();
+    let dateTime = date.toLocaleString();
+    let sessions = JSON.parse(localStorage.getItem('sessions'));
+    if (!sessions) {
+        sessions = [];
+    }
+    sessions.push(dateTime);
+    localStorage.setItem('sessions', JSON.stringify(sessions));
+</script>
+</body>
+</html>

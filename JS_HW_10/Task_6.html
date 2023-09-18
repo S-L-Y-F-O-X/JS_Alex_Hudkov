@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task_6</title>
+</head>
+<body>
+<input type="number" id="age" placeholder="Введіть ваш вік">
+<button id="buttonNext">Далі</button>
+
+<script>
+  let buttonNext = document.getElementById("buttonNext");
+  buttonNext.addEventListener("click", function() {
+    let age = document.getElementById("age");
+    let ageIn = parseInt(age.value);
+
+    if (isNaN(ageIn) || ageIn < 18) {
+      alert("Тобі немає 18 років");
+    } else {
+      alert("Сподіваюсь ти мене не обманюєш шодо свого віку!Доступ дозволено");
+    }
+  });
+</script>
+</body>
+</html>
