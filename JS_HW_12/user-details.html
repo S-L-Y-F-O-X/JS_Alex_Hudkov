@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User information</title>
+    <style>
+        .indent {
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+<h2>User information</h2>
+
+<div id="userInform"></div>
+
+<script>
+    let urlParams = new URLSearchParams(window.location.search);
+    let userId = urlParams.get('id');
+
+    fetch(`https://jsonplaceholder.typicode.com/users/${userId}`)
+        .then(response => response.json())
+        .then(user => {
+            let userInf = document.getElementById('userInform');
+
+            for (let [key, value] of Object.entries(user)) {
+                let information = document.createElement('div');
+                let label = document.createElement('span');
+                label.textContent = `${key}: `;
+                let content = document.createElement('span');
+                content.classList.add('indent');
+                content.textContent = `${JSON.stringify(value)}`;
+
+                information.append(label, content);
+                userInf.appendChild(information);
+            }
+        });
+</script>
+</body>
+</html>

@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb765ab9-7f2f-4c63-8c7f-02acc4928a06" name="Changes" comment="saved homework file JS_HW_6.HTML, main_hw_6.JS">
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_3_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_3_sessions.html" afterDir="false" />
+    <list default="true" id="cb765ab9-7f2f-4c63-8c7f-02acc4928a06" name="Changes" comment="saved homework in folder JS_HW_10">
       <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_10/fsdfsdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_12/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_HW_12/user-details.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS_HW_8.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main_hw_8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -65,7 +62,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -88,7 +85,8 @@
       <workItem from="1692212987642" duration="24215000" />
       <workItem from="1692696951276" duration="27030000" />
       <workItem from="1693301855283" duration="55317000" />
-      <workItem from="1694948617230" duration="17916000" />
+      <workItem from="1694948617230" duration="28845000" />
+      <workItem from="1695564154276" duration="9915000" />
     </task>
     <task id="LOCAL-00001" summary="Rename file">
       <option name="closed" value="true" />
@@ -146,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693735373371</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="saved homework in folder JS_HW_10">
+      <option name="closed" value="true" />
+      <created>1695050495622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695050495622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +177,8 @@
     <MESSAGE value="saved homework file JS_HW_4.HTML, main_hw_4.JS" />
     <MESSAGE value="saved homework file JS_HW_5.HTML, main_hw_5.JS" />
     <MESSAGE value="saved homework file JS_HW_6.HTML, main_hw_6.JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="saved homework file JS_HW_6.HTML, main_hw_6.JS" />
+    <MESSAGE value="saved homework in folder JS_HW_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="saved homework in folder JS_HW_10" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
