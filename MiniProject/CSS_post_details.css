@@ -1,0 +1,65 @@
+body {
+    background: url("https://phonoteka.org/uploads/posts/2021-05/1620173979_12-phonoteka_org-p-fon-dlya-prezentatsii-gazeti-i-zhurnali-13.jpg");
+    position: absolute;
+    background-size: cover;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    white-space: pre-wrap;
+    margin: 0;
+}
+.main {
+    margin: -7vh 17vw 0 17vw;
+}
+.home-button {
+    font-size: 40px;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    color: #000000;
+    text-decoration: none;
+
+}
+.back-button {
+    font-size: 40px;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    margin-left: 40px;
+    color: #000000;
+    text-decoration: none;
+}
+
+h1, h2 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.post-details {
+    margin-bottom: 20px;
+    border-top: 4px solid #e2c9ab;
+    border-bottom: 4px solid #e2c9ab;
+    padding-right: 30px;
+    text-align: right;
+}
+
+.comment-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.comment {
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 23%;
+    box-sizing: border-box;
+}
+
+.comment-container>div:nth-child(4n-3),
+.comment-container>div:nth-child(4n-2),
+.comment-container>div:nth-child(4n-1) {
+    border-right: 3px solid #e2c9ab;
+}

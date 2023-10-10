@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb765ab9-7f2f-4c63-8c7f-02acc4928a06" name="Changes" comment="saved homework in folder JS_HW_12">
-      <change afterPath="$PROJECT_DIR$/JS_HW_10/Task_4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS_HW_10/fsdfsdf.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JS_HW_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniProject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniProject/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniProject/style_details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniProject/user-details.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main_hw_8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +83,7 @@
       <workItem from="1693301855283" duration="55317000" />
       <workItem from="1694948617230" duration="28845000" />
       <workItem from="1695564154276" duration="42815000" />
+      <workItem from="1696837620307" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="Rename file">
       <option name="closed" value="true" />
